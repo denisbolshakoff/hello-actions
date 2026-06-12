@@ -1,4 +1,4 @@
-def hello(  ): #Лишние пробелы
+def hello():
     return "Hello World"
 
 
